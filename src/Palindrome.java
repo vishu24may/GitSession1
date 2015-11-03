@@ -13,7 +13,7 @@ public class Palindrome
     public static void main (String[] args)
     {
         // TODO Auto-generated method stub
-        
+        System.out.println("Palindrome.main()");
         String str = "abc";
         
         for ( int i=0; i<str.length(); i++)
